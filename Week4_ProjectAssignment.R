@@ -30,7 +30,7 @@ sampleVar
 theoVar  <- (1 / lambda)^2 / (n) 
 theoVar
 sampleSD <- sd(simMeans)
-sampleSD
+sampleSD 
 theoSD <- 1/(lambda * sqrt(n))
 theoSD
 plotdata <- data.frame(simMeans)
